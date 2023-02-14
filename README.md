@@ -31,3 +31,5 @@ resetData? = only admin
 
 Acima em \*2:
 Terá que ocorrer um animação juntamente com a troca do Medidor de Velocidade "padrão", alternando KM/H e MP/H.
+
+> Stacks: Lua, Eventos, Formato de Desenho.
